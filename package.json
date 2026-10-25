@@ -1,0 +1,20 @@
+{
+  "name": "dev-issue-tracker",
+  "version": "1.0.0",
+  "description": "Full-stack developer issue and sprint tracker built with React, Node.js/Express, and modern REST APIs.",
+  "scripts": {
+    "server": "npm run start --prefix server",
+    "client": "npm run dev --prefix client",
+    "build": "npm run build --prefix client"
+  },
+  "keywords": [
+    "react",
+    "nodejs",
+    "express",
+    "issue-tracker",
+    "portfolio",
+    "fullstack"
+  ],
+  "author": "",
+  "license": "MIT"
+}
